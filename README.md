@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola Nikolov</h1>
 <h3 align="center">Nikola, a Montana-born creative, started programming with JavaScript. He later learned Java and now practices both languages, open to ideas and projects.</h3>
-<img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=extraterrestri0&label=Profile%20views&color=0e75b6&style=flat" alt="extraterrestri0" /> </p>
 
@@ -21,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/extraterrestri0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="extraterrestri0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikola nikolov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola nikolov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/n-ivaylov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n-ivaylov" height="30" width="40" /></a>
 <a href="https://instagram.com/__n.nikolov__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__n.nikolov__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/extraterrestri0455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="extraterrestri0455" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/RtvFJkyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RtvFJkyg" height="30" width="40" /></a>
