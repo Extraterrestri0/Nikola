@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikola Nikolov</h1>
 <h3 align="center">Nikola, a Montana-born creative, started programming with JavaScript. He later learned Java and now practices both languages, open to ideas and projects.</h3>
+<img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=extraterrestri0&label=Profile%20views&color=0e75b6&style=flat" alt="extraterrestri0" /> </p>
 
