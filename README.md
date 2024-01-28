@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikola Nikolov</h1>
+<h1 align="center">Hi, 👋 I'm Nikola Nikolov</h1>
 <h3 align="center">Hello, my name is Nikola Nikolov, 18 years old from the city of Montana. Young, ambitious and motivated to work, I love challenges and novelties. In my spare time I am learning new things and improving myself. I like to read personal development books.</h3>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
