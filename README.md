@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Angular, Bootstrap, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://nikola.ogosta.com/](https://nikola.ogosta.com/)
+- 👨‍💻 All of my projects are available at [https://nikola-website.netlify.app/)
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, C#**
 
